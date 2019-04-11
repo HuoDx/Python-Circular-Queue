@@ -11,3 +11,13 @@ These two files are written by Tyler Sanderson <tylerbtbam@gmail.com>
 under the GNU General Public License.
 I will contact the author asap. to request permission for using the code in this repository.
 Your understanding is appreciated!
+
+# How to use it
+Here's an example:
+```Python
+from pycq import CircularQueue
+circular_queue = CircularQueue(5,10)
+circular_queue.start()
+circular_queue.insert(1,"hi")
+print(circular_queue.poll(1))
+```
