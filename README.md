@@ -9,8 +9,6 @@ They are:
     bstree.py
 These two files are written by Tyler Sanderson <tylerbtbam@gmail.com>
 under the GNU General Public License.
-I will contact the author asap. to request permission for using the code in this repository.
-Your understanding is appreciated!
 
 # How to use it
 Here's an example:
